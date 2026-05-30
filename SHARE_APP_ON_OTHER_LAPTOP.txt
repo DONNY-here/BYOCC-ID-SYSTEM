@@ -1,0 +1,16 @@
+How to open this system on another laptop
+
+1. Connect both laptops to the same Wi-Fi or LAN.
+2. On the main laptop, double-click Start Web App.bat.
+3. Copy the "Open on another laptop" URL shown in the window.
+   Example: http://192.168.8.106:5173
+4. On the other laptop, open that URL in Chrome, Edge, or another browser.
+
+If the other laptop cannot connect:
+
+1. Right-click Start Web App.bat and choose Run as administrator.
+2. If Windows asks, allow network access for Python and Node.js.
+3. Make sure the network is set to Private, not Public.
+4. Try the share URL again.
+
+Keep the main laptop on and keep the app/server running while other laptops are using it.

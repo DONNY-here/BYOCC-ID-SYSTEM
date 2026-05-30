@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local databases and private event data
+*.db
+active_database.json
+event_settings.json
+backups/
+photos/
+generated_ids/
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+frontend/*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.env
+.env.*

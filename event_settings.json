@@ -1,0 +1,73 @@
+{
+  "organizationName": "Bohol Youth Organization of Christian Churches and Church of Christ",
+  "eventName": "Realtalk x Panaghiusa 2026",
+  "themeName": "STRIPPED",
+  "verseText": "Hebrews 12:1-12 NIV",
+  "eventDate": "May 26-29, 2026",
+  "eventVenue": "Babag, Dagohoy, Bohol",
+  "registrationFee": "PHP 150.00",
+  "mealPrice": "50",
+  "patternOpacity": "5",
+  "idFontSize": "100",
+  "printPaperSize": "auto",
+  "adminPassword": "admin2026",
+  "autoAssignLecture": false,
+  "quickCaptureMode": false,
+  "autoBackupEnabled": false,
+  "autoBackupRecordInterval": "30",
+  "autoBackupMinuteInterval": "60",
+  "showQrInId": false,
+  "showMusicQrInId": true,
+  "teamGroupCount": "12",
+  "teams": [
+    {
+      "name": "Hosea",
+      "color": "#ee00ff"
+    },
+    {
+      "name": "Joel",
+      "color": "#ff9500"
+    },
+    {
+      "name": "Amos",
+      "color": "#e4b849"
+    },
+    {
+      "name": "Obadiah",
+      "color": "#a600ff"
+    },
+    {
+      "name": "Jonah",
+      "color": "#00a814"
+    },
+    {
+      "name": "Micah",
+      "color": "#b15959"
+    },
+    {
+      "name": "Nahum",
+      "color": "#1100ff"
+    },
+    {
+      "name": "Habakkuk",
+      "color": "#ff0000"
+    },
+    {
+      "name": "Zephaniah",
+      "color": "#a1a1a1"
+    },
+    {
+      "name": "Haggai",
+      "color": "#fff700"
+    },
+    {
+      "name": "Zechariah",
+      "color": "#00bfff"
+    },
+    {
+      "name": "Malachi",
+      "color": "#770303"
+    }
+  ],
+  "maxBatchPrint": "4"
+}
